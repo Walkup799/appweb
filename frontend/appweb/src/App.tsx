@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { Link, Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 
-// Importaciones con rutas corregidas
+
 import UserForm from './modules/users/userForm'
 import ProductoData from './modules/product/ProductoData'
 import OrderData from './modules/order/OrderData'
